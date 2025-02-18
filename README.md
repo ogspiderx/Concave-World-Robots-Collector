@@ -50,7 +50,9 @@ This script is intended for use in **your own games** or private servers where y
 ---
 
 ## 📥 Loadstring
-```loadstring(game:HttpGet("https://raw.githubusercontent.com/ogspiderx/Concave-World-Robots-Collector/refs/heads/main/main.lua", true))()```
+```
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ogspiderx/Concave-World-Robots-Collector/refs/heads/main/main.lua", true))()
+```
 
 
 ---
